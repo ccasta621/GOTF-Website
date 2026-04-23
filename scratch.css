@@ -207,8 +207,7 @@ body {
 /* --- Tableau --- */
 .tableau-wrapper {
   margin: 20px auto;
-  max-width: 100%;
-  overflow-x: auto;
+  max-width: 800px;
 }
 
 .tableau-note {
