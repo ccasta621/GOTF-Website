@@ -1,1 +1,1 @@
-# Portfolio ft. Studio Ghibli
+# Portfolio
