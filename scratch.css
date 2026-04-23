@@ -254,3 +254,7 @@ body {
 .scratch-footer a:hover {
   color: #f0c060;
 }
+
+#trailer {
+  scroll-margin-top: 20px;
+}
