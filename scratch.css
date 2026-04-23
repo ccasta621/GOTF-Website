@@ -12,6 +12,29 @@ body {
   padding: 0;
 }
 
+/* --- Navigation Bar --- */
+.navbar {
+  background-color: #0d0b07 !important;
+  padding: 10px 0;
+  border-bottom: 2px solid #c8922a;
+}
+
+.navbar-brand {
+  color: #f0c060 !important;
+}
+
+.navbar-brand:hover {
+  color: #c8922a !important;
+}
+
+.nav-link {
+  color: #d4a84b !important;
+}
+
+.nav-link:hover {
+  color: #f0c060 !important;
+}
+
 /* --- Hero Section --- */
 .hero-section {
   background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://static01.nyt.com/images/2019/01/04/arts/04grave1/grave1-videoSixteenByNineJumbo1600.jpg');
