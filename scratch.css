@@ -55,8 +55,9 @@ body {
 
 /* --- Hero Section --- */
 .hero-section {
-  background-color: #1a1208;
-  background-image: radial-gradient(ellipse at center, #3d2b0a 0%, #1a1208 70%);
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://static01.nyt.com/images/2019/01/04/arts/04grave1/grave1-videoSixteenByNineJumbo1600.jpg');
+  background-size: cover;
+  background-position: center;
   text-align: center;
   padding: 100px 20px 80px;
   border-bottom: 2px solid #c8922a;
