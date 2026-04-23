@@ -99,7 +99,7 @@ body {
 .main-wrapper {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 20px 30px 50px;
+  padding: 20px 30px 40px;
 }
 
 /* --- Content Sections --- */
@@ -208,7 +208,7 @@ body {
 /* --- Tableau --- */
 .tableau-wrapper {
   margin: 20px;
-  width: 1015px;
+  width: 1020px;
   overflow: hidden;
 }
 
