@@ -97,9 +97,9 @@ body {
 
 /* --- Main Content Wrapper --- */
 .main-wrapper {
-  max-width: 1050px;
+  max-width: 1030px;
   margin: 0 auto;
-  padding: 20px 30px 50px;
+  padding: 20px 15px 50px;
 }
 
 /* --- Content Sections --- */
@@ -207,8 +207,10 @@ body {
 
 /* --- Tableau --- */
 .tableau-wrapper {
-  margin: 20px;
+  margin: 20px auto;
   max-width: 1000px;
+  width: 1000px;
+  overflow: hidden;
 }
 
 .tableau-note {
