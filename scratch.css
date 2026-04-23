@@ -12,47 +12,6 @@ body {
   padding: 0;
 }
 
-/* --- Navigation Bar --- */
-.top-nav {
-  background-color: #0d0b07;
-  padding: 20px 0;
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  border-bottom: 2px solid #c8922a;
-}
-
-.nav-container {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 30px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.nav-logo {
-  font-family: 'Georgia', serif;
-  font-size: 1.2rem;
-  color: #f0c060;
-  text-decoration: none;
-  font-weight: bold;
-  letter-spacing: 1px;
-}
-
-.nav-links a {
-  color: #d4a84b;
-  text-decoration: none;
-  margin-left: 25px;
-  font-size: 0.95rem;
-  font-family: Arial, sans-serif;
-  transition: color 0.2s;
-}
-
-.nav-links a:hover {
-  color: #f0c060;
-}
-
 /* --- Hero Section --- */
 .hero-section {
   background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://static01.nyt.com/images/2019/01/04/arts/04grave1/grave1-videoSixteenByNineJumbo1600.jpg');
