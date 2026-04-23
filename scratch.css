@@ -147,7 +147,7 @@ body {
 /* --- Image --- */
 .film-poster {
   max-width: 440px;
-  width: 100%;
+  width: 200%;
   border: 3px solid #c8922a;
   border-radius: 4px;
   margin: 16px auto;
