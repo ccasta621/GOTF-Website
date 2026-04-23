@@ -208,8 +208,7 @@ body {
 /* --- Tableau --- */
 .tableau-wrapper {
   margin: 20px auto;
-  max-width: 1015px;
-  width: 1000px;
+  width: 1025px;
   overflow: hidden;
 }
 
